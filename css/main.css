@@ -1,0 +1,8 @@
+@import './vendor/bootstrap.min.css';
+/*@import './react-select.css';*/
+
+/*@import './react-radio.css';*/
+
+.container {
+	margin: 0 20px 30px 20px;
+}
